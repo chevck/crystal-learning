@@ -14,5 +14,11 @@
     "learning"
   ],
   "author": "excelly",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
